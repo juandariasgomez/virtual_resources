@@ -34,4 +34,4 @@ On this page you will find documentation in that explain step by step setup and 
 2. **[Reverse Proxy with Minikube](https://github.com/juancamilocc/virtual_resources/wiki/reverse-proxy-minikube)**
 3. **[Use of Minikube with Kubectl and Helm](https://github.com/juancamilocc/virtual_resources/wiki/use-minikube-kubectl-helm)**
 
-### Contact: [camilocolorado44@gmail.com]
+### Contact: [juandariasgomez@gmail.com]
