@@ -12,7 +12,7 @@ metadata:
 spec:
   containers:
     - name: rocky
-      image: ghcr.io/juancamilocc/builders:rocky8-docker
+      image: ghcr.io/juandariasgomez/builders:rocky8-docker
       imagePullPolicy: IfNotPresent
       tty: true
       securityContext:
